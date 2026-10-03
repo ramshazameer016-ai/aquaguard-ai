@@ -1,0 +1,46 @@
+[
+  {
+    "parameter": "rainfall",
+    "value": 28.5,
+    "unit": "mm",
+    "latitude": 42.3601,
+    "longitude": -71.0589,
+    "observed_at": "2026-10-01T08:00:00Z",
+    "source": "simulated_weather_station_ne",
+    "data_quality": "provisional",
+    "is_simulated": true
+  },
+  {
+    "parameter": "dissolved_oxygen",
+    "value": 3.8,
+    "unit": "mg/L",
+    "latitude": 42.3605,
+    "longitude": -71.0592,
+    "observed_at": "2026-10-01T10:00:00Z",
+    "source": "simulated_buoy_sensor_03",
+    "data_quality": "provisional",
+    "is_simulated": true
+  },
+  {
+    "parameter": "water_temperature",
+    "value": 23.4,
+    "unit": "C",
+    "latitude": 42.3605,
+    "longitude": -71.0592,
+    "observed_at": "2026-10-01T10:00:00Z",
+    "source": "simulated_buoy_sensor_03",
+    "data_quality": "provisional",
+    "is_simulated": true
+  },
+  {
+    "parameter": "turbidity",
+    "value": 45.2,
+    "unit": "NTU",
+    "latitude": 42.3589,
+    "longitude": -71.0550,
+    "observed_at": "2026-10-01T15:00:00Z",
+    "source": "simulated_outfall_monitor",
+    "data_quality": "provisional",
+    "is_simulated": true
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "description": "[DEMO DATA] Three dead fish and unusual green surface material observed near Main Street Bridge.",
+    "category": "fish_kill_and_discoloration",
+    "latitude": 42.3601,
+    "longitude": -71.0589,
+    "observed_at": "2026-10-01T09:30:00Z",
+    "image_path": "demo_storage/reports/demo_report_001.jpg",
+    "reporter_hash": "a1b2c3d4e5f67890123456789abcdef0123456789abcdef0123456789abcdef0"
+  },
+  {
+    "description": "[DEMO DATA] Pungent sulfur-like chemical odor noticed along the riverbank near Old Mill Bend.",
+    "category": "chemical_odor",
+    "latitude": 42.3625,
+    "longitude": -71.0612,
+    "observed_at": "2026-10-01T11:15:00Z",
+    "image_path": null,
+    "reporter_hash": "b2c3d4e5f6a17890123456789abcdef0123456789abcdef0123456789abcdef1"
+  },
+  {
+    "description": "[DEMO DATA] Oily iridescent sheen visible near municipal stormwater outfall #4 following morning downpour.",
+    "category": "surface_sheen",
+    "latitude": 42.3589,
+    "longitude": -71.0550,
+    "observed_at": "2026-10-01T14:45:00Z",
+    "image_path": "demo_storage/reports/demo_report_003.jpg",
+    "reporter_hash": "c3d4e5f6a1b27890123456789abcdef0123456789abcdef0123456789abcdef2"
+  }
+]
