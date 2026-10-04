@@ -1,8 +1,3 @@
-Absolutely — here is the **complete README content in one place**, ready to copy-paste directly into your `README.md`.
-
-> **Before pasting:** replace `YOUR_FRONTEND_RENDER_URL` with your actual Render frontend URL.
-
-````markdown
 # AquaGuard AI
 
 ### See it. Understand it. Verify it. Act on it.
@@ -16,7 +11,7 @@ Instead of treating a single photograph or citizen observation as proof of pollu
 ## 🚀 Live Demo
 
 ### Frontend
-https://YOUR_FRONTEND_RENDER_URL
+https://https://aquaguard-frontend-j6md.onrender.com/
 
 ### Backend API
 https://aquaguard-api-tmz8.onrender.com
@@ -493,8 +488,8 @@ aquaguard-ai/
 # 🖼️ Screenshots
 
 ## Citizen Reporting
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/ff437424-28bd-43eb-8188-ac6361580a77" />
 
-![Citizen Reporting](docs/screenshots/01-citizen-report.png)
 
 The citizen reporting interface allows users to provide an observation category, description, location, timestamp, and optional image reference.
 
@@ -502,7 +497,8 @@ The citizen reporting interface allows users to provide an observation category,
 
 ## Evidence Assessment
 
-![Evidence Assessment](docs/screenshots/02-evidence-assessment.png)
+<img width="675" height="670" alt="image" src="https://github.com/user-attachments/assets/481599f1-9b75-4a6f-a1f7-b6df83b8b929" />
+
 
 The evidence assessment shows the current Evidence Confidence and AI Belief together with their interpretation.
 
@@ -510,7 +506,8 @@ The evidence assessment shows the current Evidence Confidence and AI Belief toge
 
 ## Evidence Contributions
 
-![Evidence Contributions](docs/screenshots/03-evidence-contributions.png)
+<img width="639" height="871" alt="image" src="https://github.com/user-attachments/assets/ecc72a6d-19ab-4472-92ea-7701fb1a6510" />
+
 
 The contribution panel explains which evidence components supported the assessment and which evidence is missing or conflicting.
 
@@ -518,7 +515,8 @@ The contribution panel explains which evidence components supported the assessme
 
 ## Authority Dashboard
 
-![Authority Dashboard](docs/screenshots/04-authority-dashboard.png)
+<img width="1333" height="953" alt="image" src="https://github.com/user-attachments/assets/7d80ad16-6c71-4cd9-aff0-58ef46c813d9" />
+
 
 The dashboard provides an operational overview of potential, confirmed, and under-review events.
 
@@ -526,7 +524,7 @@ The dashboard provides an operational overview of potential, confirmed, and unde
 
 ## Verification and Audit Trail
 
-![Verification Audit](docs/screenshots/05-verification-audit.png)
+
 
 Human verification actions are recorded through the audit trail.
 
@@ -544,8 +542,12 @@ The contextual risk outlook provides a risk band, direction, and supporting cont
 
 The system can generate human-reviewed recommendations such as site inspection, water sampling, and environmental monitoring.
 
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/d32ec261-81d4-483f-b442-454d698ca137" />
 
-![Verification Audit](docs/screenshots/05-verification-audit.png)
+
+
+
+
 ---
 
 # 🚀 Running Locally
@@ -863,7 +865,8 @@ This creates an end-to-end workflow for turning community observations into tran
 
 **Live Frontend**
 
-https://YOUR_FRONTEND_RENDER_URL
+https://https://aquaguard-frontend-j6md.onrender.com/
+
 
 **Backend API**
 
@@ -885,34 +888,4 @@ Built as an environmental intelligence and explainable evidence-fusion prototype
 
 ````
 
-### One important thing before you push it
 
-Your screenshot files should actually exist at:
-
-```text
-docs/screenshots/
-````
-
-with these names:
-
-```text
-01-citizen-report.png
-02-evidence-assessment.png
-03-evidence-contributions.png
-04-authority-dashboard.png
-05-verification-audit.png
-06-risk-outlook.png
-07-recommended-actions.png
-```
-
-And replace:
-
-```text
-https://YOUR_FRONTEND_RENDER_URL
-```
-
-with your **actual Render frontend URL**. Do not change the backend URL; that one is already confirmed:
-
-```text
-https://aquaguard-api-tmz8.onrender.com
-```
